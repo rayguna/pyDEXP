@@ -2,7 +2,7 @@
 
 #### 1. About the Package
 
-The DEXP v1.0.0 module within the pyDEXP package is used for generating and analyzing a 2^k full-factorial design matrix.
+The dexp v1.0.0 module within the pyDEXP package is used for generating and analyzing a 2^k full-factorial design matrix.
 
 In this initial version, the pyDEXP package contains a dexp v1.0.0 module that contains the FullFactorial class. 
 
