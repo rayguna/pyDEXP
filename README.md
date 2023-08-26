@@ -1,4 +1,4 @@
-### pyDEXP package for 2^k full-factorial design of experiments
+### pyDEXP package for 2^k full-factorial design of experiments (DOE)
 
 #### 1. About the Package
 
