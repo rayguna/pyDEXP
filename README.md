@@ -22,9 +22,7 @@ The staticmethods are as follows.
 - calculate_residuals_and_predictions
 - generate_pareto_chart
 
-#### 2. Example Usage
-
-Example 1: Generate experimental design
+#### 2. Example Usage - [dexp_example_usage.ipynb](https://github.com/rayguna/pyDEXP/blob/main/dexp_example_usage.ipynb "dexp_example_usage.ipynb")
 
 ```
 factor_levels = {
